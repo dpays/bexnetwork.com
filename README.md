@@ -1,0 +1,16 @@
+# dPay Blockchain Explorer
+
+Live: https://bex.network
+
+### This is clone of [dpayexplorer.com](https://github.com/dpays/dpayexplorer.com) for the dPay blockchain.
+
+This service for viewing transactions in real-time. This platform is a thin client, that works without a backend (only frontend and blockchain).
+
+The service is written in Pure JavaScript (native), without the use of frameworks and additional libraries for writing code.
+
+We use:
+* [dPay.js](https://github.com/dpays/dpayjs) - the JavaScript API for dPay blockchain;
+* [Bootstrap](https://github.com/twbs/bootstrap) - the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web;
+* [SweetAlert2](https://github.com/limonte/sweetalert2) - a beautiful, responsive, customizable, accessible replacement for JavaScript's popup boxes;
+* [CodeMirror](https://github.com/codemirror/codemirror) - is a versatile text editor implemented in JavaScript for the browser;
+* [IcoMoon](https://github.com/Keyamoon/IcoMoon-Free) - perfect vector icons (fonts, SVG).
